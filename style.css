@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{.poppins-regular {
+    font-family: "poppins", sans-serif;
+    font_weigth: 400;
+    font-style: normal;
+  }
+}
